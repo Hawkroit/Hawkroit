@@ -87,6 +87,32 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=neev3654&show_icons=true&theme=merko&hide_border=true&bg_color=1a1a1a&title_color=f97316&icon_color=a855f7&text_color=ffffff&ring_color=f97316&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neev3654&layout=compact&theme=merko&hide_border=true&bg_color=1a1a1a&title_color=f97316&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+
+<br/><br/>
+
+<!-- STREAK STATS -->
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=neev3654&theme=merko&hide_border=true&background=1a1a1a&stroke=f97316&ring=f97316&fire=f97316&currStreakLabel=a855f7&sideLabels=a855f7&currStreakNum=ffffff&sideNums=ffffff&dates=cccccc" alt="Streak Stats"/>
+
+<br/><br/>
+
+<!-- ACTIVITY GRAPH -->
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=neev3654&bg_color=1a1a1a&color=f97316&line=a855f7&point=f97316&area=true&area_color=2d1b69&hide_border=true&custom_title=Contribution%20Timeline" alt="Activity Graph"/>
+
+</div>
+
+
+
+
+
+---
+
 <div align="center">
 
 ### 💭 Dev Philosophy
